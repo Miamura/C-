@@ -1,0 +1,6 @@
+D:\ProgramlamaDilleri\tasarimdesenleri\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\ProgramlamaDilleri\tasarimdesenleri\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\ProgramlamaDilleri\tasarimdesenleri\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\ProgramlamaDilleri\tasarimdesenleri\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+D:\ProgramlamaDilleri\tasarimdesenleri\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\ProgramlamaDilleri\tasarimdesenleri\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

@@ -1,0 +1,6 @@
+D:\ProgramlamaDilleri\tasarimdesenleri\FactoryMethod\obj\Debug\FactoryMethod.csprojAssemblyReference.cache
+D:\ProgramlamaDilleri\tasarimdesenleri\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\ProgramlamaDilleri\tasarimdesenleri\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\ProgramlamaDilleri\tasarimdesenleri\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\ProgramlamaDilleri\tasarimdesenleri\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\ProgramlamaDilleri\tasarimdesenleri\FactoryMethod\obj\Debug\FactoryMethod.pdb

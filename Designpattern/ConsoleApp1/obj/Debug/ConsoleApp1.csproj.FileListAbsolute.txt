@@ -1,0 +1,6 @@
+D:\ProgramlamaDilleri\tasarimdesenleri\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\ProgramlamaDilleri\tasarimdesenleri\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\ProgramlamaDilleri\tasarimdesenleri\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\ProgramlamaDilleri\tasarimdesenleri\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\ProgramlamaDilleri\tasarimdesenleri\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\ProgramlamaDilleri\tasarimdesenleri\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
